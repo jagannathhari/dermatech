@@ -1,0 +1,13 @@
+
+# Ignore __pycache__ directory
+__pycache__/
+
+# Ignore hidden files and directories
+.*
+!.gitignore
+#database file 
+*.db 
+
+
+# Ignore all files named test.py
+**/test.py
